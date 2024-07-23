@@ -3,7 +3,7 @@
 #### I am a 3rd Year University of Calgary Student in Software Engineering
 
 #### About me
-I'm embarking on a journey in the field of Software Engineering :star:, driven by my creativity and intelligence to make a significant impact on the world :earth_north_america:. I know there's a lot to learn, and I'm committed to doing everything I can to stay up to date with the latest advancements in the software world :books: :computer:. With hard work and dedication, I strive to become an amazing software developer! :rocket: :sparkles:
+I'm embarking on a journey in the field of Software Engineering :star:, driven by my creativity and intelligence to make a significant impact on the world :earth_northamerica:. I know there's a lot to learn, and I'm committed to doing everything I can to stay up to date with the latest advancements in the software world :books: :computer:. With hard work and dedication, I strive to become an amazing software developer! :rocket: :sparkles:
 
 - 🔭 I’m currently working on a simple game (connect four, and a maze game)
 - 🌱 I’m currently learning Node.js and Golang and any other language that will help with data entry!
