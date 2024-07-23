@@ -9,7 +9,7 @@ I'm embarking on a journey in the field of Software Engineering :star:, driven b
 - :seedling: I’m currently learning Node.js and Golang and practising on ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 - :people_holding_hands: I’m looking to collaborate on web development projects
 - :thinking: I’m looking for help with app development and how to get started!
-- :man_technologist: Here are a list of languages I have worked on:
+- :man_technologist: Here are a list of applied languages/skills I have worked on:
   - Web Development
     - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   - Backend / Database Accessing
