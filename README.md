@@ -1,6 +1,6 @@
-# Jaisumer Sandhu
-## 3rd Year University of Calgary Student in Software Engineering
-
+## Jaisumer Sandhu
+### 3rd Year University of Calgary Student in Software Engineering
+![Motto Banner](/banner.jpeg)
 ## Hello World!! 👋
 
 #### About me
