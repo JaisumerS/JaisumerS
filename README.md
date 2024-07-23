@@ -16,4 +16,15 @@ I'm embarking on a journey in the field of Software Engineering :star:, driven b
 
 ### Reach Me On My Socials!
 #### *Get Clicking*
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JaisumerS) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jaisumer-sandhu-3399b4248/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaisumer_sandhu/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jaisumer-sandhu-3399b4248)  
+<a href="https://github.com/JaisumerS">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" height="40">
+</a>
+<a href="https://www.linkedin.com/in/jaisumer-sandhu-3399b4248/">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40">
+</a>
+<a href="https://www.instagram.com/jaisumer_sandhu/">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="40">
+</a>
+<a href="https://twitter.com/jaisumer-sandhu-3399b4248">
+  <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="40">
+</a>
