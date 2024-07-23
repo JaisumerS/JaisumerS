@@ -26,7 +26,7 @@ I'm embarking on a journey in the field of Software Engineering :star:, driven b
 
 
 ### Reach Me On My Socials!
-#### *Get Clicking*
+#### *Get Clicking!*
 <a href="https://github.com/JaisumerS">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" height="40">
 </a>
