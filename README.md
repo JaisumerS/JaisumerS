@@ -3,7 +3,7 @@
 ![Motto Banner](/banner.jpeg)
 ### Hello World!! :wave:
 #### *About me*
-I'm embarking on a journey in the field of Software Engineering :star:, driven by my creativity and intelligence to make a significant impact on the world :earth_america:. I know there's a lot to learn, and I'm committed to doing everything I can to stay up to date with the latest advancements in the software world :books: :computer:. With hard work and dedication, I strive to become an amazing software developer! :rocket: :sparkles:
+I'm embarking on a journey in the field of Software Engineering :star:, driven by my creativity and intelligence to make a significant impact on the world :earth_americas:. I know there's a lot to learn, and I'm committed to doing everything I can to stay up to date with the latest advancements in the software world :books: :computer:. With hard work and dedication, I strive to become an amazing software developer! :rocket: :sparkles:
 
 - :telescope: I’m currently working on a simple game (connect four, and a maze game), as well as a portfolio website :computer:
 - :seedling: I’m currently learning Node.js and Golang and practising on ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
