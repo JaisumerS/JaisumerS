@@ -3,10 +3,10 @@
 ![Motto Banner](/banner.jpeg)
 ### Hello World!! :wave:
 #### *About me*
-I'm embarking on a journey in the field of Software Engineering :star:, driven by my creativity and intelligence to make a significant impact on the world :earth_americas:. I know there's a lot to learn, and I'm committed to doing everything I can to stay up to date with the latest advancements in the software world :books: :computer:. With hard work and dedication, I strive to become an amazing software developer! :rocket: :sparkles:
+I'm embarking on a journey in the field of Software Engineering :star:, to make a significant impact on the world :earth_americas:. I know there's a lot to learn, and I'm committed to doing everything I can to stay up to date with the latest advancements in the software world :books: :computer:. With hard work and dedication, I strive to become an amazing software developer! :rocket: :sparkles:
 
 - :telescope: I’m currently working on a simple game (connect four, and a maze game), as well as a portfolio website :computer:
-- :seedling: I’m currently learning Next.js and Golang and practising on ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+- :seedling: I’m currently learning Next.js and Golang and practicing on ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 - :people_holding_hands: I’m looking to collaborate on web development projects
 - :thinking: I’m looking for help with app development and how to get started!
 - :man_technologist: Here are a list of applied languages/skills I have worked on:
