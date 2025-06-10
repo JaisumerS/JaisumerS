@@ -20,8 +20,7 @@
 
 ---
 
-## ![Profile View Count](https://komarev.com/ghpvc/?username=JaisumerS&color=00ff00&style=flat-square)
-## ![Visitor Count](https://profile-counter.glitch.me/JaisumerS/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/JaisumerS/count.svg)
 
 ---
 
