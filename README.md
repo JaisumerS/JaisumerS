@@ -33,7 +33,6 @@
 
 ### 🧪 Machine Learning & Data Science  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" />
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
