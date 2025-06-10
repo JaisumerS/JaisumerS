@@ -29,6 +29,7 @@
 ### 📝 Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,css,html,c,cpp,java,py,go,lua,asm" height="40" />
+  <img src="./assembly-icon.png" height="40" alt="Assembly" />
 </p>
 
 ### 🧪 Machine Learning & Data Science  
