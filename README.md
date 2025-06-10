@@ -2,12 +2,11 @@
 
 # Jaisumer Sandhu  
 ### 3rd Year Software Engineering Student @ University of Calgary
-### Software Engineering Intern @ [ZeroSound Systems Inc.](https://zerosound.ca)
+### Software Engineering Intern @ [ZeroSound Systems Inc.](https://zerosound.com/)
 
 ---
 
-### 🌐 Reach Me On My Socials  
-#### *Get Clicking!*
+### Connect With Me On My Socials
 
 <a href="https://github.com/JaisumerS">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" height="40">
