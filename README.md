@@ -1,9 +1,13 @@
-<div align='center'>
-## Jaisumer Sandhu
-### 3rd Year University of Calgary Student in Software Engineering
+<div align="center">
 
-### Reach Me On My Socials!
+## 👋 Jaisumer Sandhu  
+### 3rd Year Software Engineering Student @ University of Calgary
+
+---
+
+### 🌐 Reach Me On My Socials  
 #### *Get Clicking!*
+
 <a href="https://github.com/JaisumerS">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" height="40">
 </a>
@@ -16,6 +20,8 @@
 <a href="https://twitter.com/jaisumer-sandhu-3399b4248">
   <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="40">
 </a>
+
+---
 
 ### 🧰 Languages & Frameworks I Use  
 <p align="center">
