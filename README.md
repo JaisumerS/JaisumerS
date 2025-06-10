@@ -1,7 +1,8 @@
 <div align="center">
 
-## 👋 Jaisumer Sandhu  
+# Jaisumer Sandhu  
 ### 3rd Year Software Engineering Student @ University of Calgary
+### Software Engineering Intern @ [ZeroSound Systems Inc.](https://zerosound.ca)
 
 ---
 
