@@ -20,7 +20,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=JaisumerS&color=blue)
+## ![Profile View Count](https://komarev.com/ghpvc/?username=JaisumerS&color=00ff00&style=flat-square)
 
 ---
 
