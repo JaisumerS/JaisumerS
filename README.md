@@ -1,12 +1,13 @@
 <div align="center">
 
 # Jaisumer Sandhu  
-### 3rd Year Software Engineering Student @ University of Calgary
-### Software Engineering Intern @ [ZeroSound Systems Inc.](https://zerosound.com/)
+### 3rd Year Software Engineering Student @ University of Calgary  
+### Software Engineering Intern @ [My Internship at ZeroSound 🎧](https://zerosound.ca)
 
 ---
 
-### Connect With Me On My Socials
+### 🌐 Reach Me On My Socials  
+#### *Get Clicking!*
 
 <a href="https://github.com/JaisumerS">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" height="40">
@@ -23,16 +24,36 @@
 
 ---
 
-### 🧰 Languages & Frameworks I Use  
+## 🧠 Technological Skill Stack
+
+### 📝 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,c,cpp,cs,java,py,haskell" />
+  <img src="https://skillicons.dev/icons?i=js,ts,css,html,c,cpp,java,py,go,lua,asm" />
 </p>
 
----
-
-### ⚙️ Dev Tools, Platforms & Databases  
+### 🧪 Machine Learning & Data Science  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,cloudflare,raspberrypi,mongodb,postgres,npm,socketio" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scipy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
+
+### ⚙️ Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nodejs,flask,spring" />
+</p>
+
+### 📦 Libraries & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,tailwind,sass,bootstrap,junit,grpc" />
+</p>
+
+### 🛠️ Dev Tools, Platforms & Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,render,ansible,arduino,postman,npm,bun,vite,mongodb,postgres,mysql" />
 </p>
 
 </div>
