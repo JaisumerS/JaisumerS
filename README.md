@@ -20,6 +20,10 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=JaisumerS&color=blue)
+
+---
+
 ### 🧠 Technological Skill Stack
 
 #### 📝 Languages  
