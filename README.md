@@ -2,7 +2,7 @@
 
 # Jaisumer Sandhu  
 ### 3rd Year Software Engineering Student @ University of Calgary  
-### Software Engineering Intern @ [My Internship at ZeroSound 🎧](https://zerosound.ca)
+### Software Engineering Intern @ [ZeroSound Systems Inc.](https://zerosound.com)
 
 ---
 
@@ -46,8 +46,11 @@
 </p>
 
 ### 📦 Libraries & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=express,tailwind,sass,bootstrap,junit,grpc" />
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=express,tailwind,sass,bootstrap" /> 
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Protobuf-3362AB?style=for-the-badge&logo=google&logoColor=white" /> 
 </p>
 
 ### 🛠️ Dev Tools, Platforms & Databases  
