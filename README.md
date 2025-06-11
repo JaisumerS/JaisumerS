@@ -25,7 +25,7 @@
 
 ---
 
-### 🧠 Technological Skill Stack
+## 🧠 Technological Skill Stack
 
 #### 📝 Languages  
 <p align="center">
