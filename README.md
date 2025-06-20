@@ -49,7 +49,7 @@
 
 ### 🧪 Testing Tools  
 <p align="center">
-  <img src="./Vitest.png" height="40" alt="Vitest" />
+  <img src=""https://skillicons.dev/icons?i=vue" height="40" alt="Vitest" />
   <img src="./JUnit.png" height="40" alt="JUnit" />
   <img src="./Playwrite.png" height="40" alt="Playwright" />
 </p>
