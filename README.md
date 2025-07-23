@@ -22,7 +22,7 @@
 
 #### 👁️ Profile Views  
 <!--![Visitor Count](https://profile-counter.glitch.me/JaisumerS/count.svg)-->
-![Visitor Count](https://komarev.com/ghpvc/?username=JaisumerS&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=JaisumerS&color=blueviolet&style=for-the-badge)
 ---
 
 ## 🧠 Technological Skill Stack
