@@ -63,11 +63,11 @@
 
 ### 🛠️ Dev Tools, Platforms & Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,ansible,arduino,postman,npm,bun,vite,mongodb,postgres,mysql,docker,podman,envoy" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,ansible,arduino,postman,npm,bun,vite,mongodb,postgres,mysql,docker" height="40" />
   <img src="./render-icon.png" height="40" alt="Render" />
-  <img src="./docker.png" height="40" alt="Docker" />
-  <img src="./podman.png" height="40" alt="Podman" />
-  <img src="./envoy.png" height="40" alt="Envoy" />
+  <img src="./SSH.png" height="40" alt="SSH" />
+  <img src="./Podman.png" height="40" alt="Podman" />
+  <img src="./Envoy.png" height="40" alt="Envoy" />
 </p>
 
 
