@@ -1,6 +1,7 @@
 <div align="center">
 
-# Jaisumer Sandhu  ![Visitor Count](https://komarev.com/ghpvc/?username=JaisumerS&color=blueviolet&style=for-the-badge)
+# Jaisumer Sandhu  
+![Visitor Count](https://komarev.com/ghpvc/?username=JaisumerS&color=blueviolet&style=for-the-badge)
 ### 3rd Year Software Engineering Student @ University of Calgary  
 ### Software Engineering Intern @ [ZeroSound Systems Inc.](https://zerosound.com)
 
