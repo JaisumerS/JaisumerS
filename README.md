@@ -2,16 +2,16 @@
 
 # Jaisumer Singh Sandhu  
 ![Visitor Count](https://komarev.com/ghpvc/?username=JaisumerS&color=blueviolet&style=for-the-badge)
-### 4th Year Software Engineering Student @ University of Calgary  
-### Software Engineering Intern @ [ZeroSound Systems Inc.](https://zerosound.com)
+### 5th Year Software Engineering Student @ University of Calgary  
+### Former Software Engineering Intern @ [ZeroSound Systems Inc.](https://zerosound.com)
 
 ---
 
 ## 🌐 Connect With Me On My Socials  
 
-<a href="https://github.com/JaisumerS">
+<!-- <a href="https://github.com/JaisumerS">
   <img src="./github.png" alt="GitHub" height="40">
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/jaisumer-sandhu-3399b4248/">
   <img src="./linkedin.png" alt="LinkedIn" height="40">
 </a>
