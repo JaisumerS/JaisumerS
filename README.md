@@ -2,7 +2,7 @@
 
 # Jaisumer Singh Sandhu  
 ![Visitor Count](https://komarev.com/ghpvc/?username=JaisumerS&color=blueviolet&style=for-the-badge)
-### 5th Year Software Engineering Student @ University of Calgary  
+### 5th Year Software Engineering Student @ University of Calgary (Graduating June 2027)
 ### Former Software Engineering Intern @ [ZeroSound Systems Inc.](https://zerosound.com)
 
 ---
